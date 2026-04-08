@@ -11,7 +11,7 @@
 
 🧠 **Currently Learning & Expanding Into**:
 - **TypeScript** – Enhancing code safety and maintainability.
-- **Vitest & Jest** – Strengthening testing practices.
+- **Jest & Cypress** – Strengthening testing practices.
 - **React 19** – Exploring new experimental features and hooks.
 - **Zustand** – Simplifying state management in modern React apps.
 - **AI Tools** – I'm actively taking courses and applying AI to boost productivity, automate workflows, and support project ideation & execution.
@@ -26,7 +26,7 @@ I'm open to **remote frontend opportunities**—ideally with startups or agencie
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ghosthard117)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelalvadev)  
 [🌐 Visit My Portfolio](https://ghostharddev.vercel.app/)  
 
 ---
@@ -37,14 +37,14 @@ I'm open to **remote frontend opportunities**—ideally with startups or agencie
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Ghosthard117&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ghosthard117&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosthard117&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=GTHDDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GTHDDev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GTHDDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ghosthard117&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=GTHDDev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
@@ -53,4 +53,4 @@ I'm open to **remote frontend opportunities**—ideally with startups or agencie
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Ghosthard117&icon=2&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=GTHDDev&icon=2&color=4)](https://visitcount.itsvg.in)
